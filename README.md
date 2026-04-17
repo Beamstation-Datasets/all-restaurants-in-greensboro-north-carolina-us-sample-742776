@@ -9,9 +9,9 @@
 | Dataset ID | `742776` |
 | Location | Greensboro |
 | Category | Restaurants |
-| Full dataset size | 921 records |
-| Free sample size | 100 records (10.86%) |
-| Last export | 2026-03-31T14:30:57.709501+00:00 |
+| Full dataset size | 1,005 records |
+| Free sample size | 100 records (9.95%) |
+| Last export | 2026-04-14T14:59:01.734238+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greensboro-north-carolina-us-sample-742776/releases/download/sample-latest/beamstation_742776_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
