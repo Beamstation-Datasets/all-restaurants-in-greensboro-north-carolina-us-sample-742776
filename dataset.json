@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Greensboro, North Carolina with a population of over 299k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Greensboro, North Carolina, US",
-  "export_job_id": "535b8580-984e-426d-a656-9a72a61123cc",
+  "export_job_id": "caf5f094-2eea-4d69-b2cd-5a14b02598c0",
   "github_org": "Beamstation-Datasets",
   "id_short": 742776,
   "location_name": "Greensboro",
   "location_type": "city",
   "repo_name": "all-restaurants-in-greensboro-north-carolina-us-sample-742776",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/742776/beamstation_742776_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 10.86,
+  "sample_pct": 9.95,
   "sample_records": 100,
   "sample_sha256": "004483e712239f69205700d0e959598885becaa257581e90bd6e51472e8d5028",
   "sample_size_bytes": 395679,
-  "total_records": 921,
-  "updated_at": "2026-03-31T14:30:57.709501+00:00"
+  "total_records": 1005,
+  "updated_at": "2026-04-14T14:59:01.734238+00:00"
 }
