@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c8863390-8ad6-4a84-b41b-a5e3824473da",
+  "export_job_id": "bc916bad-b3a1-4487-ad68-c4b6fe842f4a",
   "id_short": 742776,
-  "published_at": "2026-04-21T19:46:29Z",
+  "published_at": "2026-04-28T19:56:41Z",
   "repo_name": "all-restaurants-in-greensboro-north-carolina-us-sample-742776",
   "sample_asset_name": "beamstation_742776_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/742776/beamstation_742776_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 107,
-  "sample_sha256": "3a6c9433ccd9a3d4ab8ec89d4c900f7f448e628af7b0c74335ea77549f170580",
-  "sample_size_bytes": 419020,
-  "total_records": 1077
+  "sample_records": 71,
+  "sample_sha256": "1c2f97e35022af946e0946f3ddb12a8ec1cca263bd8997f640016cdc9c21723a",
+  "sample_size_bytes": 220480,
+  "total_records": 712
 }
